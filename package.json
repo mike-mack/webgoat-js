@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mattjohnson/webgoat-js#readme",
   "dependencies": {
-    "jquery": "^3.0.0"
+    "jquery": "3.0.0"
   }
 }
