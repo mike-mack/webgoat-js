@@ -1,0 +1,22 @@
+{
+  "name": "webgoat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattjohnson/webgoat-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattjohnson/webgoat-js/issues"
+  },
+  "homepage": "https://github.com/mattjohnson/webgoat-js#readme",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
