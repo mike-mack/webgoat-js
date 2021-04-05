@@ -1,2 +1,2 @@
 setup = ".muse/setup.sh"
-customTools = ["https://56080d31fb79.ngrok.io/auditjd_analyzer.py"]
+customTools = ["https://56080d31fb79.ngrok.io/auditjs_analyzer.py"]
