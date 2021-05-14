@@ -1,2 +1,2 @@
 setup = ".muse/setup.sh"
-customTools = ["https://56080d31fb79.ngrok.io/auditjs_analyzer.py"]
+customTools = ["/opt/tools/lift/sca.sh"]
