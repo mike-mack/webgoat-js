@@ -1,1 +1,2 @@
 setup = ".muse/setup.sh"
+customTools = ["/opt/tools/lift/sca.sh"]
